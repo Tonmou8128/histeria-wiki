@@ -24,4 +24,4 @@ Le bâton de soin est l'un des trois bâtons à effet sur le serveur avec le [b�
 Pour pouvoir en fabriquer, il faut être niveau 21 dans le métier de tueur.
 
 ## Utilité
-Lorsque vous utilisez ce bâton, il vous soignera 4 coeurs. Il y a un temps de recharge de 20 secondes entre chaque utilisation.
+Lorsque vous utilisez ce bâton, il vous soignera 6 coeurs. Il y a un temps de recharge de 20 secondes entre chaque utilisation.

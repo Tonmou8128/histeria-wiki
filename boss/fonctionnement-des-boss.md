@@ -49,8 +49,6 @@ seuls les joueurs ayant infligé __plus de 250 dégâts au boss__ recoivent les 
     - 3e et plus - 1 seul
     - plus de 2500 dégâts infligés - 1 ajouté au total
 
->Si vous faites partie des joueurs les plus acharnés au combat, votre nom sera affiché à l'entrée de l'arène avec votre nombre total de __dégâts infligés__ ainsi que le nombre total de __boss tués__.
-
 ## Liste des boss
 Voici la liste des boss disponibles en jeu :
 

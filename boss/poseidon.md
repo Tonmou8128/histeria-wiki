@@ -16,13 +16,5 @@ Poséidon, dieu des océans dont le trident en effraie plus d'un. Sa robustesse 
   - Tranchant V
   - Tsunami I
 
-## Objet unique : Trident de Poséidon
-
-## Description
-Le trident légendaire de Poséidon. Possède l'enchantement unique __Tsunami__, ayant le pouvoir de ralentir drastiquement vos adversaires de façon temporaire.
-
-## Aperçu
-![trident](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/trident.png)
-
 ## Skin
 ![poseidon](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/entities/boss/poseidon.png)

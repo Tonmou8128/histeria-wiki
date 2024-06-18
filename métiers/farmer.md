@@ -47,7 +47,7 @@ L'avancée des métiers est disponible avec la commande `/job`.
 
 | Source | Niveaux | Exprérience |
 |:---:|:---:|:---:|
-| Blé | 0-6 | 15 |
+| Blé | 0 - 6 | 15 |
 | Carotte | 7 - 15 | 10 |
 | Betterave | 7 - 15 | 10 |
 | Pousse de Nocturite | 15 - 25 | 25 |

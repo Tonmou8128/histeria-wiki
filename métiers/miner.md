@@ -28,7 +28,7 @@ L'avancée des métiers est disponible avec la commande `/job`.
 | 15 | Un [cave block](https://histeria.fr/wiki/blocs/cave-block) |
 | 16 | Un [chercheur de coffres](https://histeria.fr/wiki/objets/chest-finder) |
 | 17 | 10 [blocs en Histerite](https://histeria.fr/wiki/ressources/histerite-block) |
-| 18 | Creaft du [coeur en Histerite](https://histeria.fr/wiki/ressources/histerite-core) |
+| 18 | Craft du [coeur en Histerite](https://histeria.fr/wiki/ressources/histerite-core) |
 | 19 | 5 [terres fertilisées](https://histeria.fr/wiki/blocs/fertilized-dirt) |
 | 20 | 16 [améliorations de commode](https://histeria.fr/wiki/objets/drawer-upgrade) |
 | 21 | Une [pioche en Histerite](https://histeria.fr/wiki/outils/histerite-pickaxe) incassable, efficacité IV |

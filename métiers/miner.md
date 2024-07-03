@@ -35,7 +35,7 @@ L'avancée des métiers est disponible avec la commande `/job`.
 | 22 | 2 [clés en Histerite](https://histeria.fr/wiki/clés/histerite-key) |
 | 23 | 75000 $ |
 | 24 | Craft du [marteau](https://histeria.fr/wiki/outils/hammer) |
-| 25 | 2 [clés en Histerite](https://histeria.fr/wiki/clés/histerite-key) |
+| 25 | 3 [clés en Histerite](https://histeria.fr/wiki/clés/histerite-key) |
 | 26 | 16 [graines en Nocturite](https://histeria.fr/wiki/ressources/nocturite-seed) |
 | 27 | Craft du [sac à dos](https://histeria.fr/wiki/objets/item-pack) |
 | 28 | 3 [tickets de loterie](https://histeria.fr/wiki/objets/lottery-ticket) |

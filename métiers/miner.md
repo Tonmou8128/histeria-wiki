@@ -13,7 +13,7 @@ L'avancée des métiers est disponible avec la commande `/job`.
 |:---:|:---:|
 | 1 | 128 torches |
 | 2 | Une pioche en diamant efficacité III |
-| 3 | Un [casque en Histerite](https://histeria.fr/wikiarmures/histerite-helmet) |
+| 3 | Un [casque en Histerite](https://histeria.fr/wiki/armures/histerite-helmet) |
 | 4 | 8 [Histerite](https://histeria.fr/wiki/ressources/histerite) |
 | 5 | 3 [Lucky Blocks](https://histeria.fr/wiki/blocs/lucky-block) |
 | 6 | Craft de la [pioche en Histerite](https://histeria.fr/wiki/outils/histerite-pickaxe) |

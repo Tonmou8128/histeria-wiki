@@ -49,6 +49,8 @@ seuls les joueurs ayant infligé __plus de 250 dégâts au boss__ recoivent les 
     - 3e et plus - 1 seul
     - plus de 2500 dégâts infligés - 1 ajouté au total
 
++ 1000 xp pour le métier de tueur
+
 >Si vous faites partie des joueurs les plus acharnés au combat, votre nom sera affiché à l'entrée de l'arène avec votre nombre total de __dégâts infligés__ ainsi que le nombre total de __boss tués__.
 
 ## Liste des boss
@@ -69,6 +71,6 @@ Voici la liste des boss disponibles en jeu :
 |Athéna             |Olympe                       |
 |Hestia             |Colisée                      |
 
-### Récompenses uniques
+## Récompense uniques
 
-Le joueur le plus valeureux ayant infligé __le plus de dégâts__ au boss a une petite chance d'obtenir la récompense du boss vaincu, la [clé boss](https://histeria.fr/wiki/clés/boss-key).
+Le joueur le plus valeureux ayant infligé __le plus de dégâts__ au boss a 1 chance sur 9 d'obtenir une [clé de boss](https://histeria.fr/wiki/clés/boss-key).

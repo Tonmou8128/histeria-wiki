@@ -1,4 +1,5 @@
 %%name=Marché noir%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/buy.png%%
 %%weight=506%%
 
 # Marché noir

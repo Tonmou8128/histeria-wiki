@@ -1,4 +1,5 @@
 %%name=Récompenses de vote%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/item-category.png%%
 %%weight=500%%
 
 # Récompenses de vote

@@ -10,10 +10,10 @@ Quand le porteur frappe un ennemi, il a une chance de retirer 0.5 coeur de vie s
 
 **Niveau maximum :** 5
 
-| Niveau | Pourcentage d'activation | Effet |
-| --- | --- | --- |
-| 1 | 1 % | Retire 0.5 coeur de vie à son adversaire et le téléporter à soi |
-| 2 | 1.25 % | Retire 0.5 coeur de vie à son adversaire et le téléporter à soi |
-| 3 | 1.5 % | Retire 0.5 coeur de vie à son adversaire et le téléporter à soi |
-| 4 | 1.75 % | Retire 0.5 coeur de vie à son adversaire et le téléporter à soi |
-| 5 | 2 % | Retire 0.5 coeur de vie à son adversaire et le téléporter à soi |
+| Niveau | Pourcentage d'activation |
+| --- | --- |
+| 1 | 1 % |
+| 2 | 1.25 % |
+| 3 | 1.5 % |
+| 4 | 1.75 % |
+| 5 | 2 % |

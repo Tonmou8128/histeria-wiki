@@ -15,6 +15,6 @@ Quand le porteur de l'enchantement est frappé, il a une chance de renvoyer les 
 
 | Niveau | Pourcentage d'activation | Effet |
 | --- | --- | --- |
-| 1 | 0.5 % | Renvoie les dégâts à l'adversaire |
-| 2 | 0.625 % | Renvoie les dégâts à l'adversaire |
-| 3 | 0.75 % | Renvoie les dégâts à l'adversaire |
+| 1 | 0.5 % |
+| 2 | 0.625 % |
+| 3 | 0.75 % |

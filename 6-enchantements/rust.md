@@ -10,10 +10,10 @@ Quand le porteur frappe un ennemi, il a une chance de retirer 0.5 coeur de vie s
 
 **Niveau maximum :** 5
 
-| Niveau | Pourcentage d'activation | Effet |
-| --- | --- | --- |
-| 1 | 1 % | Retire 0.5 coeur et réduit la durabilité de l'armure de l'adversaire |
-| 2 | 1.25 % | Retire 0.5 coeur et réduit la durabilité de l'armure de l'adversaire |
-| 3 | 1.5 % | Retire 0.5 coeur et réduit la durabilité de l'armure de l'adversaire |
-| 4 | 1.75 % | Retire 0.5 coeur et réduit la durabilité de l'armure de l'adversaire |
-| 5 | 2 % | Retire 0.5 coeur et réduit la durabilité de l'armure de l'adversaire |
+| Niveau | Pourcentage d'activation |
+| --- | --- |
+| 1 | 1 % |
+| 2 | 1.25 % |
+| 3 | 1.5 % |
+| 4 | 1.75 % |
+| 5 | 2 % |

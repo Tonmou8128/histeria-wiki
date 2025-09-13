@@ -10,10 +10,10 @@ Quand le porteur casse un bloc, il gagne 5x plus d'expérience qu'en temps norma
 
 **Niveau maximum :** 5
 
-| Niveau | Pourcentage d'activation | Effet |
-| --- | --- | --- |
-| 1 | 0.8 % | 5x plus d'expérience |
-| 2 | 1 % | 5x plus d'expérience |
-| 3 | 1.2 % | 5x plus d'expérience |
-| 3 | 1.4 % | 5x plus d'expérience |
-| 3 | 1.6 % | 5x plus d'expérience |
+| Niveau | Pourcentage d'activation |
+| --- | --- |
+| 1 | 0.8 % |
+| 2 | 1 % |
+| 3 | 1.2 % |
+| 3 | 1.4 % |
+| 3 | 1.6 % |

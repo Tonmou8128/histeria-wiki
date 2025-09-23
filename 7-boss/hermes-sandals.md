@@ -10,4 +10,5 @@ Les sandales d'Hermès sont la pièce d'armure du boss Hermès. Une fois vaincu,
 
 Les sandales seront toujours enchantées avec les enchantements *protection IV* et *Reset I*, ce dernier étant spécifique aux sandales.
 
-> L'enchantement __Reset__ a une chance remettre à 0 tous les cooldowns du porteur.
+
+> L'enchantement __Reset__ a une chance remettre à 0 tous les cooldowns du porteur. (0.5% de chance d'activation)

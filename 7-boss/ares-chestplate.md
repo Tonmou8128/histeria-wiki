@@ -10,4 +10,5 @@ Le poitrail d'Arès est la pièce d'armure du boss Arès. Une fois vaincu, il a 
 
 Le poitrail sera toujours enchanté avec les enchantements *protection IV* et *BloodIgnite I*, ce dernier étant spécifique à la couronne.
 
-> L'enchantement __BloodIgnite__ a une chance d'infliger 2 coeurs de dégâts à tous les joueurs proches du prteur quand il est frappé.
+
+> L'enchantement __BloodIgnite__ a une chance d'infliger 2 coeurs de dégâts à tous les joueurs proches du prteur quand il est frappé. (0.5% de chance d'activation)

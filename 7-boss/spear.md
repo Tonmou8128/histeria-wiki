@@ -10,4 +10,5 @@ La lance d'Athéna est l'arme du boss Athéna. Une fois vaincue, elle a une peti
 
 La lance sera toujours enchantée avec les enchantements *tranchant V* et *Retrieve I*, ce dernier étant spécifique à la lance.
 
-> L'enchantement __Retrive__ a le pouvoir de voler 2 coeurs aux ennemis.
+
+> L'enchantement __Retrive__ a le pouvoir de voler 2 coeurs aux ennemis. (1% de chance d'activation)

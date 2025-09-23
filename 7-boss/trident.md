@@ -10,4 +10,5 @@ Le trident de Poséidon est l'arme du boss Poséidon. Une fois vaincu, il a une 
 
 Le trident sera toujours enchanté avec les enchantements *tranchant V* et *Tsunami I*, ce dernier étant spécifique au trident.
 
-> L'enchantement __Tsunami__ a le pouvoir de ralentir drastiquement ses adversaires de façon temporaire.
+
+> L'enchantement __Tsunami__ a le pouvoir de ralentir drastiquement ses adversaires de façon temporaire. (1% de chance d'activation)

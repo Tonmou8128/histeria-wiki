@@ -10,4 +10,5 @@ Le sceptre du lotus d'Héra est l'arme du boss Héra. Une fois vaincue, elle a u
 
 Le sceptre du lotus sera toujours enchanté avec les enchantements *tranchant V* et *Clone I*, ce dernier étant spécifique au sceptre du lotus.
 
-> L'enchantement __Clone__ a le pouvoir de créer des clones infligeant des dégâts aux joueurs, en plus d'infliger 1 dégât au joueur ennemi.
+
+> L'enchantement __Clone__ a le pouvoir de créer des clones infligeant des dégâts aux joueurs, en plus d'infliger 1 dégât au joueur ennemi. (1% de chance d'activation)

@@ -36,5 +36,7 @@ Les Donateurs ont accès à toutes les commandes.
 |`/ceshop` |Permet d'accéder à l'enchanteur | Oméga |
 |`/cesell` |Permet d'accéder au désenchanteur | Oméga |
 |`/rename <nom>`|Permet de renommer un objet| Oméga |
+|`/condense`|Permet de condenser les objets dans l'inventaire (lingots en blocs, etc...)| Omega |
+|`/uncondense`|Permet de décomposer les objets condensés dans l'inventaire (blocs en lingots, etc...)| Omega |
 |||
 |`/prefix <prefix>`|Permet d'afficher un préfixe personnalisé| Donateur & préfixe dynamique|

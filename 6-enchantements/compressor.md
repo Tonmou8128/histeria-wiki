@@ -10,10 +10,10 @@ L'enchantement Compressor est fusionnable avec une [pioche en Histerite](https:/
 
 **Niveau maximum :** 5
 
-| Niveau | Pourcentage d'activation | Effet |
-| --- | --- | --- |
-| 1 | 3.2 % | Fabrique des cobblestones compressées |
-| 2 | 3.4 % | Fabrique des cobblestones compressées |
-| 3 | 3.6 % | Fabrique des cobblestones compressées |
-| 3 | 3.8 % | Fabrique des cobblestones compressées |
-| 3 | 4 % | Fabrique des cobblestones compressées |
+| Niveau | Pourcentage d'activation |
+| --- | --- |
+| 1 | 3.2 % |
+| 2 | 3.4 % |
+| 3 | 3.6 % |
+| 3 | 3.8 % |
+| 3 | 4 % |

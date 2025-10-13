@@ -10,10 +10,10 @@ Il ajoute un coeur de dégât au coup infligé et donne un effet de congélation
 
 **Niveau maximum :** 5
 
-| Niveau | Pourcentage d'activation | Effet |
-| --- | --- | --- |
-| 1 | 1 % | Retire 1 coeur de vie à son adversaire et lui donne un effet de congélation |
-| 2 | 1.25 % | Retire 1 coeur de vie à son adversaire et lui donne un effet de congélation |
-| 3 | 1.5 % | Retire 1 coeur de vie à son adversaire et lui donne un effet de congélation |
-| 4 | 1.75 % | Retire 1 coeur de vie à son adversaire et lui donne un effet de congélation |
-| 5 | 2 % | Retire 1 coeur de vie à son adversaire et lui donne un effet de congélation |
+| Niveau | Pourcentage d'activation |
+| --- | --- |
+| 1 | 1 % |
+| 2 | 1.25 % |
+| 3 | 1.5 % |
+| 4 | 1.75 % |
+| 5 | 2 % |

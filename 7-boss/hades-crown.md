@@ -10,4 +10,5 @@ La couronne d'Hadès est la pièce d'armure du boss Hadès. Une fois vaincu, il 
 
 La couronne sera toujours enchantée avec les enchantements *protection IV* et *Omnicient I*, ce dernier étant spécifique à la couronne.
 
-> L'enchantement __Omnicient__ a une chance rendre complètement invisible le porteur quand il est frappé.
+
+> L'enchantement __Omnicient__ a une chance rendre complètement invisible le porteur quand il est frappé. (0.5% de chance d'activation)

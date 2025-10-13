@@ -10,10 +10,10 @@ Quand un ennemi est frappé avec cet enchantement, il a une chance de se faire f
 
 **Niveau maximum :** 5
 
-| Niveau | Pourcentage d'activation | Effet |
-| --- | --- | --- |
-| 1 | 1 % | Retire 1 coeur de vie à son adversaire et un éclair apparaît |
-| 2 | 1.25 % | Retire 1 coeur de vie à son adversaire et un éclair apparaît |
-| 3 | 1.5 % | Retire 1 coeur de vie à son adversaire et un éclair apparaît |
-| 4 | 1.75 % | Retire 1 coeur de vie à son adversaire et un éclair apparaît |
-| 5 | 2 % | Retire 1 coeur de vie à son adversaire et un éclair apparaît |
+| Niveau | Pourcentage d'activation |
+| --- | --- |
+| 1 | 1 % |
+| 2 | 1.25 % |
+| 3 | 1.5 % |
+| 4 | 1.75 % |
+| 5 | 2 % |

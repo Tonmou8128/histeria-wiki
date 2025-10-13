@@ -10,10 +10,10 @@ Quand le porteur est frappé, tous les dégâts du coup reçu s'annulent !
 
 **Niveau maximum :** 5
 
-| Niveau | Pourcentage d'activation | Effet |
-| --- | --- | --- |
-| 1 | 0.5 % | Pas de dégât sur le coup reçu |
-| 2 | 0.625 % | Pas de dégât sur le coup reçu |
-| 3 | 0.75 % | Pas de dégât sur le coup reçu |
-| 4 | 0.875 % | Pas de dégât sur le coup reçu |
-| 5 | 1 % | Pas de dégât sur le coup reçu |
+| Niveau | Pourcentage d'activation |
+| --- | --- |
+| 1 | 0.5 % |
+| 2 | 0.625 % |
+| 3 | 0.75 % |
+| 4 | 0.875 % |
+| 5 | 1 % |

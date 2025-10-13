@@ -10,10 +10,10 @@ Quand le porteur frappe un ennemi, il a une chance de retirer 1 coeur de vie sup
 
 **Niveau maximum :** 5
 
-| Niveau | Pourcentage d'activation | Effet |
-| --- | --- | --- |
-| 1 | 1 % | Retire 1 coeur de vie à son adversaire et le brûle (8s) |
-| 2 | 1.25 % | Retire 1 coeur de vie à son adversaire et le brûle (8s) |
-| 3 | 1.5 % | Retire 1 coeur de vie à son adversaire et le brûle (8s) |
-| 4 | 1.75 % | Retire 1 coeur de vie à son adversaire et le brûle (8s) |
-| 5 | 2 % | Retire 1 coeur de vie à son adversaire et le brûle (8s) |
+| Niveau | Pourcentage d'activation |
+| --- | --- |
+| 1 | 1 % |
+| 2 | 1.25 % |
+| 3 | 1.5 % |
+| 4 | 1.75 % |
+| 5 | 2 % |

@@ -10,10 +10,10 @@ Quand le porteur est frappé, il a une chance de réparer faiblement son armure 
 
 **Niveau maximum :** 5
 
-| Niveau | Pourcentage d'activation | Effet |
-| --- | --- | --- |
-| 1 | 0.5 % | Répare l'armure |
-| 2 | 0.625 % | Répare l'armure |
-| 3 | 0.75 % | Répare l'armure |
-| 4 | 0.875 % | Répare l'armure |
-| 5 | 1 % | Répare l'armure |
+| Niveau | Pourcentage d'activation |
+| --- | --- |
+| 1 | 0.5 % |
+| 2 | 0.625 % |
+| 3 | 0.75 % |
+| 4 | 0.875 % |
+| 5 | 1 % |

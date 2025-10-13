@@ -6,7 +6,7 @@
 
 ## Description
 
-Le Bellum est un petit crapaud qui a un lien magique avec le Lumen. En effet, il s'en nourrit, et une aura de Lumen est parfois observable autour de lui. Il vit dans des marais de Lumen, et sa peau arbore sa couleur. Attention, car quand un Hylide est fâché, il attaque son adversaire en lui donnant des coups de langue.
+Le Bellum est une créature très mystérieuse vivant dans les forêts. Très liée à la nature, elle est dangereuse et n'hésite pas à attaquer les joueurs quand ils se trouvent dans son territoire.
 
 Parmi la faune présente sur Histeria, le Bellum est la troisième créature la plus faible sur les 5 espèces présentes.
 

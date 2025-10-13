@@ -13,8 +13,8 @@ Quand le porteur frappe un enemi, il a une chance de retirer 2 coeurs de vie sup
 
 **Niveau maximum :** 3
 
-| Niveau | Pourcentage d'activation | Effet |
-| --- | --- | --- |
-| 1 | 1 % | Retire 2 coeurs de vie à son adversaire |
-| 2 | 1.25 % | Retire 2 coeurs de vie à son adversaire |
-| 3 | 1.5 % | Retire 2 coeurs de vie à son adversaire |
+| Niveau | Pourcentage d'activation |
+| --- | --- |
+| 1 | 1 % |
+| 2 | 1.25 % |
+| 3 | 1.5 % |

@@ -13,8 +13,8 @@ Cet enchantement d'arène est fusionnable avec une épée ou une hache en Hister
 
 **Niveau maximum :** 3
 
-| Niveau | Pourcentage | Effet |
-| --- | --- | --- |
-| 1 | 1 % | Retire 1,5 coeur et augmente les cooldowns de 5s |
-| 2 | 1.25 % | Retire 1,5 coeur et augmente les cooldowns de 5s |
-| 3 | 1.5 % | Retire 1,5 coeur et augmente les cooldowns de 5s |
+| Niveau | Pourcentage |
+| --- | --- |
+| 1 | 1 % |
+| 2 | 1.25 % |
+| 3 | 1.5 % |

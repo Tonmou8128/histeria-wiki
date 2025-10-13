@@ -10,4 +10,5 @@ Le voile d'Hestia est la pièce d'armure du boss Hestia. Une fois vaincue, elle 
 
 Le voile sera toujours enchanté avec les enchantements *protection IV* et *FeatherWalk I*, ce dernier étant spécifique au voile.
 
-> L'enchantement __FeatherWalk__ a une chance de donner un effet de rapidité V durant 4 secondes au porteur, ainsi que levitation I et cécité I aux joueurs aux alentours.
+
+> L'enchantement __FeatherWalk__ a une chance de donner un effet de rapidité V durant 4 secondes au porteur, ainsi que levitation I et cécité I aux joueurs aux alentours. (0.5% de chabce d'activation)

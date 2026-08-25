@@ -6,7 +6,7 @@
 
 ## Informations
 L'enchantement Glut est fusionnable avec une [épée en Histerite](https://histeria.fr/wiki/2-equipement/histerite-sword) ou une [hache en Histerite](https://histeria.fr/wiki/2-equipement/histerite-axer).
-Quand un joueur frappe un ennemi, il a une chance de lui retirer 2 points de nourriture.
+Quand un joueur frappe un ennemi, il a une chance de lui infliger 1.5 points de dégâts et de lui retirer 2 points de nourriture.
 
 **Niveau maximum :** 5
 

@@ -6,7 +6,7 @@
 
 ## Informations
 L'enchantement légendaire Phase est fusionnable avec une [hache en Histerite](https://histeria.fr/wiki/2-equipement/histerite-axe).
-Quand le porteur frappe un ennemi, il a une chance d'immobiliser les ennemis aux alentours et de leur infliger 1.5 coeur de dégât.
+Quand le porteur frappe un ennemi, il a une chance d'immobiliser les ennemis aux alentours et de leur infliger 2.5 coeur de dégât.
 
 **Niveau maximum :** 3
 

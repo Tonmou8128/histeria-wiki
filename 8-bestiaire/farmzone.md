@@ -1,6 +1,6 @@
 %%name=Farmzone%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/events/farmzone-icon.png%%
-%%weight=100%%
+%%weight=111%%
 
 # Farmzone
 
@@ -19,7 +19,7 @@ Ce marchand se situe au fond des marais, dans une cabane en bois. Il propose, en
 | Objet | Fonctionnement | Argent | Lumen | Objets de créature |
 | --- | --- | --- | --- | --- |
 | Poudre de fusion | Améliore le % de réussite d'un parchemin | 100 $ | 50 | 4 cornes d'Histerite |
-| Kukri sanguin | Un shuriken qui inflige des dégâts sur la durée | 1 000 $ | 500 | 4 griffes sylvestres et 4 fourrures dorées |
+| Shuriken ensanglanté | Un shuriken qui inflige des dégâts sur la durée | 1 000 $ | 500 | 4 griffes sylvestres et 4 fourrures dorées |
 | Boule de lumen | Immobilise l'ennemi | 1 500 $ | 750 | 16 larmes de lumen |
 | Ender pearl divisée | Une perle de l'end qui divise en l'air | 2 500 $ | 1 250 | 16 cornes d'Histerite et 16 griffes sylverstres |
 | Potion de purifiaction | Retire les effets négatifs | 10 000 $ | 5 000 | 32 larmes de lumen et 2 larmes primordiales |

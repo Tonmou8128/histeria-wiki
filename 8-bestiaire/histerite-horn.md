@@ -1,6 +1,6 @@
 %%name=Corne d'Histerite%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-horn.png%%
-%%weight=100%%
+%%weight=109%%
 
 # Corne d'Histerite
 

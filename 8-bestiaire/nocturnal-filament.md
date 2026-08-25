@@ -1,6 +1,6 @@
 %%name=Filament nocturne%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturnal-filament.png%%
-%%weight=100%%
+%%weight=107%%
 
 # Filament nocturne
 

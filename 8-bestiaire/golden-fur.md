@@ -1,6 +1,6 @@
 %%name=Fourrure dorée%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/golden-fur.png%%
-%%weight=100%%
+%%weight=106%%
 
 # Fourrure dorée
 

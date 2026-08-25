@@ -1,6 +1,6 @@
 %%name=Goutte de lumen%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/lumen-tear.png%%
-%%weight=100%%
+%%weight=110%%
 
 # Goutte de lumen
 

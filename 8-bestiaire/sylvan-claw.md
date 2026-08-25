@@ -1,6 +1,6 @@
 %%name=Griffe sylvestre%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/sylvan-claw.png%%
-%%weight=100%%
+%%weight=108%%
 
 # Griffe sylvestre
 

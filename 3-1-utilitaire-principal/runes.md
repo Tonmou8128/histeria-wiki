@@ -1,6 +1,6 @@
 %%name=Runes%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/runes.webp%%
-%%weight=921%%
+%%weight=924%%
 
 # Runes
 

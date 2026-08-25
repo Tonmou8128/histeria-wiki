@@ -1,6 +1,6 @@
 %%name=Bouclier d'objet%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/item-shield.png%%
-%%weight=920%%
+%%weight=922%%
 
 # Bouclier d'objet
 

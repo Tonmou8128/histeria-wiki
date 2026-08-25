@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/entities/boss/poseidon.png%%
 %%name=Poséidon%%
-%%weight=221%%
+%%weight=222%%
 # Poséidon
 
 ## Description 

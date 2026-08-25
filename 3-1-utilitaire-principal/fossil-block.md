@@ -1,6 +1,6 @@
 %%name=Bloc de fossile%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/fossil-block.png%%
-%%weight=918%%
+%%weight=920%%
 
 # Bloc de fossile
 

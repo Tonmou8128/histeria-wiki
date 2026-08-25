@@ -1,6 +1,6 @@
 %%name=Clé sanguine%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/blood-key.png%%
-%%weight=917%%
+%%weight=919%%
 
 # Clé sanguine
 

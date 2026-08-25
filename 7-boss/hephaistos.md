@@ -1,6 +1,6 @@
 %%name=Héphaïstos%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/entities/boss/hephaistos.png%%
-%%weight=219%%
+%%weight=220%%
 # Héphaïstos
 
 ## Description 

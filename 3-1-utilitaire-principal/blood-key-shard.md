@@ -1,6 +1,6 @@
 %%name=Fragment de clé sanguine%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/blood-key-shard.png%%
-%%weight=916%%
+%%weight=918%%
 
 # Fragment de clé sanguine
 

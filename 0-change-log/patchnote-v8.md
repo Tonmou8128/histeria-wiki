@@ -4,7 +4,7 @@
 
 # Patch note de la V8
 
-# Farmzone
+## Farmzone
 La voici ! La tant attendue Farmzone est désormais en jeu, avec plein de contenu inédit disponible autour ! Les créatures qui y apparaîssent attaquent les joueurs, mais donnent du butin spécial, dont chacun a une variante "primordiale", variante d'autant plus rare ! 
 - **`/farmzone`:** Cette commande permet d'accéder au serveur farmzone
 - **`/farmshop`:** Ce tout nouveau magasin permet d'acheter plein de nouveaux objets en échange d'argent, de lumen, et de butins des créatures de la farmzone
@@ -115,7 +115,7 @@ Disponibles uniquement dans les ruines, ces objets demandent d'accomplir une pet
 - **Plant de Nocturite:** En cassant un plant, le nombre de fruits obtenus a été diminué: 75% de chance d'en avoir qu'un seul, 20% de chance d'en avoir 2, et 5% de chance d'en avoir 3
 - **Ficelle en Histerite:** Elle permet de fabriquer l'arc en Histerite
 
-# Marques
+## Marques
 Ces quatres nouveaux objets sont des cosmétiques pouvant être fusionnés à des équipements.
 - **Marqueur du joueur:** Fusionné à un item, ce dernier aura le nom du joueur écrit dessus
 - **Marqueur de blocs:** Fusionné à un outil, il sera marqué sur celui-ci le nombre de blocs minés

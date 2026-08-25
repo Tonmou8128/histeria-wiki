@@ -8,7 +8,7 @@
 L'enchantement Gloom est fusionnable avec une [pièce d'armure](https://histeria.fr/wiki/2-equipement).
 Quand le porteur de l'enchantement est frappé, il a une chance de faire apparaitre un Hylide qui inflige des dégâts à l'adversaire.
 
-**Niveau maximum :** 5
+**Niveau maximum :** 3
 
 | Niveau | Pourcentage d'activation |
 | --- | --- |

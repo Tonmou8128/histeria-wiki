@@ -16,6 +16,6 @@ Quand le porteur de l'enchantement est frappé, il a une chance de baisser le ni
 | 2 | 1.425 % |
 | 3 | 1.71 % |
 
-# Obtention
+## Obtention
 
 Flatten n'est disponible que dans les coffres légendaires et au niveau 42 du métier de fermier.

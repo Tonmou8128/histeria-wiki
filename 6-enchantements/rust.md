@@ -2,7 +2,7 @@
 %%name=Rust%%
 %%weight=317%%
 
-# Meteor
+# Rust
 
 ## Informations
 L'enchantement Rust est fusionnable avec une [hache](https://histeria.fr/wiki/2-equipement/histerite-axe).

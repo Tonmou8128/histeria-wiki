@@ -15,5 +15,5 @@ L'enchantement Excavate est fusionnable avec une [pioche en Histerite](https://h
 | 1 | + 6% |
 | 2 | + 12% |
 | 3 | + 18% |
-| 3 | + 24% |
-| 3 | + 30% |
+| 4 | + 24% |
+| 5 | + 30% |

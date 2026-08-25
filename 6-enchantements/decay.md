@@ -5,7 +5,7 @@
 # Decay
 
 ## Informations
-L'enchantement Deacy est fusionnable avec un arc en Histerite.
+L'enchantement Decay est fusionnable avec un arc en Histerite.
 
 Quand l'attaquant touche un ennemi, il a une chance de retirer 1.5 coeur de vie supplémentaire à son adversaire, et de lui donner un effet de wither I pendant 8 secondes.
 

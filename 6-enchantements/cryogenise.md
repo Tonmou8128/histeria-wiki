@@ -12,8 +12,8 @@ Il ajoute un coeur de dégât au coup infligé et donne un effet de congélation
 
 | Niveau | Pourcentage d'activation |
 | --- | --- |
-| 1 | 1 % |
-| 2 | 1.25 % |
-| 3 | 1.5 % |
-| 4 | 1.75 % |
-| 5 | 2 % |
+| 1 | 1.96 % |
+| 2 | 2.45 % |
+| 3 | 2.94 % |
+| 4 | 3.43 % |
+| 5 | 3.92 % |

@@ -12,8 +12,8 @@ Quand le porteur frappe un ennemi, il a une chance de retirer 1 coeur de vie sup
 
 | Niveau | Pourcentage d'activation |
 | --- | --- |
-| 1 | 1 % |
-| 2 | 1.25 % |
-| 3 | 1.5 % |
-| 4 | 1.75 % |
-| 5 | 2 % |
+| 1 | 1.98 % |
+| 2 | 2.475 % |
+| 3 | 2.97 % |
+| 4 | 3.465 % |
+| 5 | 3.96 % |

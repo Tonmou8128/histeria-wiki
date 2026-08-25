@@ -1,12 +1,12 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/enchanted-armor.webp%%
-%%name=Shield%%
-%%weight=305%%
+%%name=Harden%%
+%%weight=300%%
 
-# Shield
+# Harden
 
 ## Informations
-Un bouclier Antiémeute ! L'enchantement Shield est fusionnable avec une [pièce d'armure](https://histeria.fr/wiki/2-equipement).
-Quand le porteur est frappé, tous les dégâts du coup reçu s'annulent !
+L'enchantement Harden est fusionnable avec une [pièce d'armure](https://histeria.fr/wiki/2-equipement).
+Quand le porteur de l'enchantement est frappé, il a une chance de diviser les dégâts reçus par 2.
 
 **Niveau maximum :** 5
 

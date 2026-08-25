@@ -19,4 +19,4 @@ Quand l'attaquant touche un ennemi, il a une chance de retirer 3.5 coeur de vie 
 
 # Obtention
 
-Magnetize est disponible dans les météores en Nocturite.
+Magnetize n'est disponible que dans les météores en Nocturite.

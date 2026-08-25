@@ -4,9 +4,6 @@
 
 # Execution
 
-## Obtention
-Cet enchantement n'est disponible **que dans les ruines**
-
 ## Informations
 Déchaine le bourreau en toi ! L'enchantement d'arène Execution est fusionnable avec une [épée en Histerite](https://histeria.fr/wiki/2-equipement/histerite-sword).
 Quand le porteur frappe un enemi, il a une chance de retirer 2 coeurs de vie supplémentaires à son adversaire.
@@ -15,6 +12,10 @@ Quand le porteur frappe un enemi, il a une chance de retirer 2 coeurs de vie sup
 
 | Niveau | Pourcentage d'activation |
 | --- | --- |
-| 1 | 1 % |
-| 2 | 1.25 % |
-| 3 | 1.5 % |
+| 1 | 1.666 % |
+| 2 | 1.862 % |
+| 3 | 2.058 % |
+
+## Obtention
+
+Execution n'est disponible que dans les coffres légendaires.

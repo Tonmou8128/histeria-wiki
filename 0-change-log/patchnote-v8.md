@@ -12,6 +12,7 @@ La voici ! La tant attendue Farmzone est désormais en jeu, avec plein de conten
 - **Potion de purification:** Aussi disponible au `/farmshop`, elle enlève tous les effets négatifs
 - **Boule de lumen:** Cette boule disponible au `/farmshop` peut être lancée sur un adversaire, qui sera immobilisé une seconde
 - **Ender pearl divisée:** Encore un objet du `/farmshop`, elle se lance et se divise en plusieurs perles en l'air, dont toutes sont des fuasses sauf une
+- **Bouclier d'objet:** Un autre objet du `/farmshop`, celui-là peut être fusionné à un équipement, et quand l'équipement est sur le point de se casser, le joueur reçoit des alertes
 - **Armure en lumen:** Cette nouvelle armure (aussi disponible au `/farmshop` !) est un peu moins puissante que l'armure en Histerite, mais donne les mêmes effets permanents que cette dernière, et quand elle est équipée totalement, elle donne en plus un effet de saturation, et le joueur gagne 1.5 fois plus de lumen en tuant des créatures et leur inflige 2 fois plus de dégâts
 
 ## Événements
@@ -140,3 +141,6 @@ Ces quatres nouveaux objets sont des cosmétiques pouvant être fusionnés à de
 - **TNT en Nocturite:** Elles explosent désormais dans l'eau
 - **Scoreboard:** Ajout d'une ligne donnant le meilleur booster dans le scoreboard custom
 - **Tête de joueur:** Lors d'une élimination, au lieu d'une pépite de fer, une tête sera déposée contenant 1% de l'argent de la victime
+- **`/shop`:** Certains prix, notamment des cultures, ont été ajustées. De plus, de nouveaux objets et blocs ont été ajoutés
+- **Boxs:** Le contenus des boxqs ont été modifiés
+- **Métiers:** Certaines récompenses de métiers ont été modifiés

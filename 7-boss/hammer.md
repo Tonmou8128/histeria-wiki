@@ -1,6 +1,6 @@
 %%name=Marteau d'Héphaïstos%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/hammer.png%%
-%%weight=217%%
+%%weight=218%%
 
 # Marteau d'Héphaïstos
 

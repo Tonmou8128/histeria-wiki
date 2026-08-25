@@ -1,6 +1,6 @@
 %%name=Arc d'Artémis%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-bow.png%%
-%%weight=218%%
+%%weight=219%%
 
 # Arc d'Artémis
 

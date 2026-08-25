@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/boss-key.png%%
 %%name=Clé de boss%%
-%%weight=234%%
+%%weight=235%%
 
 # Clé de boss
 

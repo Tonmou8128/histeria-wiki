@@ -1,6 +1,6 @@
 %%name=Déméter%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/entities/boss/demeter.png%%
-%%weight=227%%
+%%weight=228%%
 # Déméter
 
 ## Description 

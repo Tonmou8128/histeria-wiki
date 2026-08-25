@@ -1,6 +1,6 @@
 %%name=Glaive de l'Olympe%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/olympus-glaive.png%%
-%%weight=200%%
+%%weight=217%%
 
 # Glaive de l'Olympe
 

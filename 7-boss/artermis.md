@@ -1,6 +1,6 @@
 %%name=Artémis%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/entities/boss/artemis.png%%
-%%weight=220%%
+%%weight=221%%
 # Artémis
 
 ## Description 

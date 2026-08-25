@@ -7,13 +7,13 @@
 ## Farmzone
 La voici ! La tant attendue Farmzone est désormais en jeu, avec plein de contenu inédit disponible autour ! Les créatures qui y apparaîssent attaquent les joueurs, mais donnent du butin spécial, dont chacun a une variante "primordiale", variante d'autant plus rare ! 
 - **`/farmzone`:** Cette commande permet d'accéder au serveur farmzone
-- **`/farmshop`:** Ce tout nouveau magasin permet d'acheter plein de nouveaux objets en échange d'argent, de lumen, et de butins des créatures de la farmzone
-- **Kukri sanguin:** Cet objet disponible au `/farmshop` ressemble à un shuriken mais fait des dégats sur la durée
-- **Potion de purification:** Aussi disponible au `/farmshop`, elle enlève tous les effets négatifs
-- **Boule de lumen:** Cette boule disponible au `/farmshop` peut être lancée sur un adversaire, qui sera immobilisé une seconde
-- **Ender pearl divisée:** Encore un objet du `/farmshop`, elle se lance et se divise en plusieurs perles en l'air, dont toutes sont des fuasses sauf une
-- **Bouclier d'objet:** Un autre objet du `/farmshop`, celui-là peut être fusionné à un équipement, et quand l'équipement est sur le point de se casser, le joueur reçoit des alertes
-- **Armure en lumen:** Cette nouvelle armure (aussi disponible au `/farmshop` !) est un peu moins puissante que l'armure en Histerite, mais donne les mêmes effets permanents que cette dernière, et quand elle est équipée totalement, elle donne en plus un effet de saturation, et le joueur gagne 1.5 fois plus de lumen en tuant des créatures et leur inflige 2 fois plus de dégâts
+- **Hermite:** Ce tout nouveau magasin permet d'acheter plein de nouveaux objets en échange d'argent, de lumen, et de butins des créatures de la farmzone
+- **Kukri sanguin:** Cet objet disponible chez l'Hermite ressemble à un shuriken mais fait des dégats sur la durée
+- **Potion de purification:** Aussi disponible chez l'Hermite, elle enlève tous les effets négatifs
+- **Boule de lumen:** Cette boule disponible chez l'Hermite peut être lancée sur un adversaire, qui sera immobilisé une seconde
+- **Ender pearl divisée:** Encore un objet de l'Hermite, elle se lance et se divise en plusieurs perles en l'air, dont toutes sont des fuasses sauf une
+- **Bouclier d'objet:** Un autre objet de l'Hermite, celui-là peut être fusionné à un équipement, et quand l'équipement est sur le point de se casser, le joueur reçoit des alertes
+- **Armure en lumen:** Cette nouvelle armure (aussi disponible chez l'Hermite !) est un peu moins puissante que l'armure en Histerite, mais donne les mêmes effets permanents que cette dernière, et quand elle est équipée totalement, elle donne en plus un effet de saturation, et le joueur gagne 1.5 fois plus de lumen en tuant des créatures et leur inflige 2 fois plus de dégâts
 
 ## Événements
 Une grosse nouveauté de cette V8 est l'ajout de nombreux événements ! Grâce à eux, il y aura toujours quelque chose à faire en jeu !
@@ -57,7 +57,7 @@ Nous avons ajouté de tous nouveaux enchantements, équilibrés certains autres,
 
 Voici les nouveaux enchantements:
 - **Flatten:** Nouvel enchantement légendaire d'armure, disponible dans les coffres d'arène, il baisse les effets de résistance des ennemis aux alentours
-- **Gloom:** Nouvel enchantement légendaire d'armure également, disponible au `/farmshop`, il fait apparaître un Hylide qui attaque les ennemis
+- **Gloom:** Nouvel enchantement légendaire d'armure également, disponible chez l'Hermite, il fait apparaître un Hylide qui attaque les ennemis
 - **Harden:** Nouvel enchantement d'armure, il divise les dégâts reçus par 2
 - **Iron Spirit:** Retour de ce vieil enchantement d'armure qui donne un effet de résistance I ou II permanent
 - **Nihil:** Nouvel enchantement de Hache, il vole 2 coeurs aux adversaires

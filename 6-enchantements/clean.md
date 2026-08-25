@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/enchanted-pickaxe.webp%%
 %%name=Clean%%
-%%weight=302%%
+%%weight=304%%
 
 # Clean
 

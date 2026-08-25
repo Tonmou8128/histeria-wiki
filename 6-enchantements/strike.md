@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/enchanted-sword.webp%%
 %%name=Strike%%
-%%weight=313%%
+%%weight=321%%
 
 # Strike
 
@@ -12,8 +12,8 @@ Quand un ennemi est frappé avec cet enchantement, il a une chance de se faire f
 
 | Niveau | Pourcentage d'activation |
 | --- | --- |
-| 1 | 1 % |
-| 2 | 1.25 % |
-| 3 | 1.5 % |
-| 4 | 1.75 % |
-| 5 | 2 % |
+| 1 | 1.96 % |
+| 2 | 2.45 % |
+| 3 | 2.94 % |
+| 4 | 3.43 % |
+| 5 | 3.92 % |

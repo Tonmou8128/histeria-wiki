@@ -11,4 +11,4 @@ Le glaive de l'Olympe est l'arme donnée par les boss Zeus, Déméter, Aphrodite
 Le glaive sera toujours enchanté avec les enchantements *tranchant V* et *Lighten I*, ce dernier étant spécifique au glaive.
 
 
-> L'enchantement __Lighten__ peut éblouir les ennemis, et leur infliger 1.5 coeurs de dégâts.
+> L'enchantement __Lighten__ peut éblouir les ennemis, et leur infliger 2.5 coeurs de dégâts.

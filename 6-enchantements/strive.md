@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/enchanted-armor.webp%%
 %%name=Strive%%
-%%weight=304%%
+%%weight=306%%
 
 # Strive
 
@@ -12,8 +12,8 @@ Quand le porteur est frappé, il a une chance de réparer faiblement son armure 
 
 | Niveau | Pourcentage d'activation |
 | --- | --- |
-| 1 | 0.5 % |
-| 2 | 0.625 % |
-| 3 | 0.75 % |
-| 4 | 0.875 % |
-| 5 | 1 % |
+| 1 | 1.21125 % |
+| 2 | 1.5675 % |
+| 3 | 1.92375 % |
+| 4 | 2.28 % |
+| 5 | 2.63625 % |

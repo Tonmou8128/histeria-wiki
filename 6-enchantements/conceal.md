@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/enchanted-armor.webp%%
 %%name=Conceal%%
-%%weight=309%%
+%%weight=311%%
 
 # Conceal
 
@@ -12,8 +12,8 @@ Quand le porteur de l'enchantement est frappé, il a une chance de cacher l'indi
 
 | Niveau | Pourcentage d'activation |
 | --- | --- |
-| 1 | 0.5 % |
-| 2 | 0.625 % |
-| 3 | 0.75 % |
-| 4 | 0.875 % |
-| 5 | 1 % |
+| 1 | 1.14 % |
+| 2 | 1.425 % |
+| 3 | 1.71 % |
+| 4 | 1.995 % |
+| 5 | 2.28 % |

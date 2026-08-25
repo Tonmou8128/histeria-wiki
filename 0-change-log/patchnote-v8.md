@@ -50,7 +50,7 @@ Le marché noir a subi une légère refonte, car il avait trop peu d'offres rée
 - **Système de primes:** Grâce à la commande `/bounty`, il esgt possible de placer de l'argent sur la mort d'un joueur, le tueur récupère tout l'argent misé sur la mort de son adversaire !
 - **Arc en Histerite:** Ajout de l'arc en Histerite, disponible à la fabrication avec la nouvelle ficelle en Histerite
 - **Bâton de force:** Ajout du bâton de force, qui donne un effet de force I pendant 15 secondes. Son craft se débloque au niveau 7 du métier de tueur
-- **`/Duel`**: Ajout de la possibilité de miser des objets
+- **`/duel`**: Ajout de la possibilité de miser des objets
 
 ## Enchantements
 Nous avons ajouté de tous nouveaux enchantements, équilibrés certains autres, et retirés certains qui n'étaient pas utilisés. Grâce à cette rotation, de nouvelles stratégies sont à découvrir !

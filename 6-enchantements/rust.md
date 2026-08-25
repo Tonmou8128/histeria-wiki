@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/enchanted-axe.webp%%
 %%name=Rust%%
-%%weight=314%%
+%%weight=317%%
 
 # Meteor
 

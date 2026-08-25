@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/enchanted-sword.webp%%
 %%name=Execution%%
-%%weight=318%%
+%%weight=331%%
 
 # Execution
 

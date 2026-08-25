@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/enchanted-axe.webp%%
 %%name=Phase%%
-%%weight=300%%
+%%weight=320%%
 
 # Phase
 

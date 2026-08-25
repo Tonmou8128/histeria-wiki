@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/enchanted-armor.webp%%
 %%name=Gloom%%
-%%weight=300%%
+%%weight=314%%
 
 # Gloom
 

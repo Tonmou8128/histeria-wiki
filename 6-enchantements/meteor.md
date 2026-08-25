@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/enchanted-sword.webp%%
 %%name=Meteor%%
-%%weight=315%%
+%%weight=322%%
 
 # Meteor
 

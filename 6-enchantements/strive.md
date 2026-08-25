@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/enchanted-armor.webp%%
 %%name=Strive%%
-%%weight=304%%
+%%weight=306%%
 
 # Strive
 

@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/enchanted-armor.webp%%
 %%name=Shield%%
-%%weight=305%%
+%%weight=307%%
 
 # Shield
 

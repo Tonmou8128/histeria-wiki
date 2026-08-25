@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/enchanted-pickaxe.webp%%
 %%name=Gaze%%
-%%weight=303%%
+%%weight=301%%
 
 # Gaze
 

@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-anvil.png%%
 %%name=Enclume en Histerite%%
-%%weight=323%%
+%%weight=338%%
 
 # Enclume en Histerite
 

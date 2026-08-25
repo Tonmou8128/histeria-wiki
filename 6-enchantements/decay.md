@@ -1,6 +1,6 @@
 %%name=Decay%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/enchanted-bow.webp%%
-%%weight=300%%
+%%weight=335%%
 
 # Decay
 

@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/enchanted-sword.webp%%
 %%name=Burk%%
-%%weight=300%%
+%%weight=328%%
 
 # Burk
 

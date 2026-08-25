@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/enchanted-sword.webp%%
 %%name=Corrupt%%
-%%weight=320%%
+%%weight=327%%
 
 # Corrupt
 

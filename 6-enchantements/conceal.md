@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/enchanted-armor.webp%%
 %%name=Conceal%%
-%%weight=309%%
+%%weight=311%%
 
 # Conceal
 

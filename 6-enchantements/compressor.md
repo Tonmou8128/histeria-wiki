@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/enchanted-pickaxe.webp%%
 %%name=Compressor%%
-%%weight=301%%
+%%weight=303%%
 
 # Compressor
 

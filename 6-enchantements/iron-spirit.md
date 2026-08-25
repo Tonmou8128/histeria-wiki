@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/enchanted-armor.webp%%
 %%name=Iron Spirit%%
-%%weight=300%%
+%%weight=309%%
 
 # Iron Spirit
 

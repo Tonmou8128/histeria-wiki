@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/enchanted-sword.webp%%
 %%name=Cryogenize%%
-%%weight=319%%
+%%weight=326%%
 
 # Cryogenize
 

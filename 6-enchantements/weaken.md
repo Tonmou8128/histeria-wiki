@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/enchanted-sword.webp%%
 %%name=Weaken%%
-%%weight=311%%
+%%weight=330%%
 
 # Weaken
 

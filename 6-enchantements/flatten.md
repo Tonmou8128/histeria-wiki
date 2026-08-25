@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/enchanted-armor.webp%%
 %%name=Flatten%%
-%%weight=300%%
+%%weight=315%%
 
 # Flatten
 

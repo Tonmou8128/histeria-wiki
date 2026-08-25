@@ -2,7 +2,7 @@
 %%name=Husk%%
 %%weight=300%%
 
-# Husk
+# Husk 
 
 ## Informations
 L'enchantement Husk est fusionnable avec une [pioche en Histerite](https://histeria.fr/wiki/2-equipement/histerite-pickaxe). Quand le porteur mine, il a une chance de recevoir un effet de célérité II pendant 6 secondes !

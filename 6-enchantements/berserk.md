@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/enchanted-axe.webp%%
 %%name=Berserk%%
-%%weight=321%%
+%%weight=319%%
 
 # Berserk
 

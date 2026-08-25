@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/enchanted-axe.webp%%
 %%name=Nihil%%
-%%weight=300%%
+%%weight=318%%
 
 # Nihil
 

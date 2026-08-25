@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/enchanted-armor.webp%%
 %%name=Gravity%%
-%%weight=308%%
+%%weight=313%%
 
 # Gravity
 

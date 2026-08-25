@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/enchanted-armor.webp%%
 %%name=Resilient%%
-%%weight=306%%
+%%weight=308%%
 
 # Resilient
 

@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/enchanted-sword.webp%%
 %%name=Flayed%%
-%%weight=317%%
+%%weight=325%%
 
 # Flayed
 

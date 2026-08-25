@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/enchanted-pickaxe.webp%%
 %%name=Excavate%%
-%%weight=300%%
+%%weight=302%%
 
 # Excavate
 

@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/enchanted-axe.webp%%
 %%name=Timber%%
-%%weight=312%%
+%%weight=316%%
 
 # Timber
 

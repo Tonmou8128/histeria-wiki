@@ -7,7 +7,7 @@
 ## Description
 L'épée en Histerite est une épée améliorée qui vous permet d'infliger plus de dégâts qu'une épée vanilla.
 
-Elle a 17 points d'attaque et 15 000 points de durabilité.
+Elle a 10 points d'attaque et 15 000 points de durabilité.
 
 ## Craft
 -=-

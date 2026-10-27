@@ -11,7 +11,7 @@ La hache en Histerite est une hache améliorée qui vous permet de casser du boi
 
 Elle permet de couper verticalement jusqu'à 8 bûches de bois, 1 bûche en dessous de celle visée et 6 au dessus.
 Elle a 5 000 de durabilité.
-Elle a 17 points d'attaque.
+Elle a 10 points d'attaque.
 
 
 ## Craft

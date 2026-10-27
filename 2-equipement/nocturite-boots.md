@@ -26,4 +26,4 @@ Pour pouvoir les fabriquer, vous devez être niveau 30 dans le métier de bûche
 ## Tableau descriptif
 | Effets de potions | Points d'armure | Durabilité |
 | ----------------- | --------------- | ---------- |
-| Vitesse II | 2,5             | 20 000     |
+| Vitesse II        | 1,5             | 4 148      |

@@ -26,4 +26,4 @@ Pour pouvoir les fabriquer, vous devez être niveau 30 dans le métier de tueur.
 ## Tableau descriptif
 | Effets de potions | Points d'armure | Durabilité |
 | ----------------- |-----------------| ---------- |
-| Force I        | 3               | 20 000     |
+| Force I           | 3               | 4 792      |

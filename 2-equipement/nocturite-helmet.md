@@ -26,4 +26,4 @@ Pour pouvoir le fabriquer, vous devez être niveau 30 dans le métier d'agricult
 ## Tableau descriptif
 | Effets de potions | Points d'armure | Durabilité |
 | ----------------- |-----------------| ---------- |
-| Vision nocturne | 2,5 | 20 000 |
+| Vision nocturne   | 1,5             | 3 516      |

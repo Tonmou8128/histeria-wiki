@@ -22,3 +22,5 @@ L'arc en Histerite est le seul arc disponible sur Histeria.
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-stick.png
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-bow.png
 -=-
+
+Le craft de l'arc en Histerite se débloque au niveau 13 du métier de tueur.

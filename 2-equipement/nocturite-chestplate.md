@@ -26,4 +26,4 @@ Pour pouvoir le fabriquer, vous devez être niveau 30 dans le métier de mineur.
 ## Tableau descriptif
 | Effets de potions | Points d'armure | Durabilité |
 | ----------------- |-----------------| ---------- |
-| Célérité III, Bonus de vie IV | 4 | 20 000 |
+| Célérité II, Bonus de vie IV | 4    | 5 113      |
